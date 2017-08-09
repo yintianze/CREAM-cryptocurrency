@@ -4,8 +4,8 @@ CREAM cryptocurrency, a blockchain based digital money
 
 ©CREAM 2017 | by CREAMteam
  
-CRYPTO RULES EVERYTHING AROUND ME
-DIGITAL CRYPTO CURRENCY
+# CRYPTO RULES EVERYTHING AROUND ME
+DIGITAL CRYPTO CURRENCY -
 CREAMcoin
 
 https://creamcoin.com <<< Official Creamcoin website
@@ -14,7 +14,7 @@ www.creamchain.info  <<< Blockchain explorer
 https://play.google.com/store/search?q=creamcoin&hl=en <<< Cream Android applications PlayStore
 http://online.creamcoin.com <<< CREAMchat support
 
-INFO
+# INFO
 
 
 ____________________________________________________________________________
