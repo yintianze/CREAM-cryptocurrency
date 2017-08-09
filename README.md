@@ -9,10 +9,14 @@ DIGITAL CRYPTO CURRENCY -
 CREAMcoin
 
 https://creamcoin.com <<< Official Creamcoin website
-www.cream.technology <<< Creamline: CreamCryptoNews
-www.creamchain.info  <<< Blockchain explorer
-https://play.google.com/store/search?q=creamcoin&hl=en <<< Cream Android applications PlayStore
-http://online.creamcoin.com <<< CREAMchat support
+www.cream.technology <<< Creamline: CreamCryptoNews<br />
+www.creamchain.info  <<< Blockchain explorer<br />
+https://play.google.com/store/search?q=creamcoin&hl=en <<< Cream Android applications PlayStore<br />
+http://online.creamcoin.com <<< CREAMchat support<br />
+
+
+
+
 
 # INFO
 
@@ -66,3 +70,78 @@ APPLICATIONS
 Blockchain technology has a huge potential to transform business operating models in the long term. Blockchain distributed ledger technology is more a foundational technology with the potential to create new foundations for global economic and social systems. Blockchain technology can be used to create a permanent, public, transparent ledger system for compiling data on sales, storing rights data by authenticating copyright registration, tracking transactions and more.
 
 
+
+
+# Disclaimer
+<div>
+<p>
+This Disclaimer is for use of CREAM Whitepaper and creamcoin.com website.
+The following Terms and Conditions (“Terms”) covers the sale of CREAM cryptocurrency with ticker(“CRM”) to crowdsale participants (“Investors” collectively, and “Investor” individually). 
+This document describes the crowdsale in which the CREAM coin “CRM” is sold. It is not a promotion for investment and does not contains sales/offers of securities in any jurisdiction. Individuals, companies, and other organizations should calculate the risks, costs, and profit of investing in CRM early in the crowdsale against waiting to invest or trade CRM on open exchanges. 
+</p>
+<br>
+<h3 style="color:white; text-align: center;">Important:</h3>
+<p>
+Investments of CRM are non-refundable. The funds are owned by the CREAMTEAM and is a separate entity and independent ownership structure of individuals. By investing in crowdsale of CRM, you acknowledge and represent that you have carefully reviewed the Terms and fully understand the risks, costs, and benefits of purchasing CRM and agree to be bound by these Terms. You further represent and warrant that, you are authorized to purchase CRM in your relevant jurisdiction, are of a legal age to be bound by these Terms, and will not hold liable for any losses or any special, incidental, or consequential damages arising out of, or in any way connected to the sale of CRM, now or in the future, CREAMTEAM, its affiliates and associates.
+</p>
+<br>
+<h3 style="color:white; text-align: center;">Warning:</h3>
+<p>
+DO NOT PURCHASE "CRM" IF YOU ARE NOT AN EXPERT IN DEALING WITH CRYPTOGRAPHIC COINS AND BLOCKCHAIN-BASED SOFTWARE SYSTEMS. While the CREAMTEAM will be available to assist investors of "CRM" during and after the sale, the CREAMTEAM will not be responsible for lost BTC or CRM resulting from actions taken by investors. If you do not have experience with cryptocurrencies, then you should not purchase "CRM" or participate in the Crowdsale of CRM.
+Cryptocurrencies are subject of extreme price fluctations which can lead to losses. CREAM investor should be prepared to expect fluctuations, both down and up, in the price of CRM denominated in Bitcoin, United States dollars (“USD”) or other currencies. CREAMTEAM cannot guarantee full market liquidity for "CRM" and therefore there may be periods of time in which CRM is difficult to sell. By investing in CRM, you acknowledge and represent that you fully understand that "CRM" may experience fluctations in price and will not count CREAMTEAM liable for any losses or damages arising from, or in any way connected to, the trading of "CRM". 
+</p>
+<br>
+<h6 style="color:white; text-align: center;">TERMS AND CONDITIONS</h6>
+<p>
+Crowdsale of CRM, CREAMTEAM will produce a quantity of CRM in a pre-sale event called "Crowdsale", that will be done on its website at https://creamcoin.com . All CRM presold in this event will be 30 million coins. CRM investments will be distributed to the corresponding investor. CREAM crowdsale and CRM distribution is defined by CREAMTEAM. CRM pricing and full details will be provided to investors in the crowdsale timeframe, and will be available on the website at the time of crowdsale.
+Disclosure of CRM crowdsale investments will be announced in public after crowdsale ends, that will enable the investors to develop an understanding of the size of the existing CRM funding pool.
+<br>
+Instructions for purchasing CRM with BTC and other cryptocurrencies using the payment gateway will be available on the CREAM website during the duration of the crowdsale. Failure to follow these instructions may limit, delay, or prevent a investor from obtaining CRM. Any questions about these instructions should be directed to creamcoin@gmail.com
+</p>
+<br>
+<h3 style="color:white; text-align: center;">Acceptance of "Terms and Conditions" of the CREAM</h3>
+<p>
+Receipt of CRM and the purchase Email as part of the invetsment process, and in order to invest in CRM, investor will need to provide an email address (the “Purchase Email”). The Purchase Email will be used to email the investor a notice of distribution of CRM coins, to provide an CRM address where all CRM coins will be sent. By investing in CREAM, and to the extent permitted by applicable law, the investor agrees not to hold any of the CREAMTEAM Parties liable for any losses or consequential damages arising out of it.
+</p>
+<p>
+CRM will only be available for sale on the CREAM Website at https://creamcoin.com. To the extent that any third-party website or service offers CRM for sale during the crowdsale such third-party websites or services are not sanctioned by CREAMTEAM or its affiliates and have no relationship in any way with the CREAMTEAM. As a result, CREAMTEAM prohibits the use of these third-party websites or services for the purchase of CRM, prior to the end of the crowdsale.
+</p>
+<p>
+CREAMTEAM will monitor all potential transactions for fraudulent attempts to double spend Bitcoins. Any detected double spend of BTC will result in no CRM being delivered to the associated investor.
+</p>
+<p>
+CREAMTEAM WILL NOT invest in CRM During Crowdsale. Furthermore CREAMTEAM warrants that it will not invest into CRM from any third party, or acquire CRM in any manner, or acquire future control of CRM, during the period of the Crowdsale.
+</p>
+<p>
+CREAMTEAM has no responsibility for any tax implications of the sale of CRM or the possession and use of CRM. The investor have full responsibility to determine if the investment in CRM with BTC has tax implications for the investor in any jurisdiction. 
+</p>
+<p>
+Although CREAMTEAM requires that investors must provide an email address, CREAMTEAM will not publish any identifying information related to CRM investment, without the prior written permission of investor. Investor may be contacted by email by CREAMTEAM regarding a investment.
+</p>
+<br><br>
+<h6 style="color:white; text-align: center;">Disclaimer of Warranties</h6>
+<p>
+THE INVESTOR AGREES THAT HE IS INVESTING IN "CRM"  AT THE INVESTOR’S OWN RISK AND THAT CRM IS PROVIDED ON AN “AS IS” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE OR IMPLIED WARRANTIES, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING THE FOREGOING, NONE OF THE CREAMTEAM PARTIES WARRANT THAT THE PROCESS FOR INVESTING IN CRM  WILL BE UNINTERRUPTED OR ERROR-FREE.
+<br>
+THE INVESTOR ACKNOWLEDGES AND AGREES THAT, TO THE FULLEST EXTENT PERMITTED BY ANY APPLICABLE LAW, THE DISCLAIMERS OF LIABILITY CONTAINED HEREIN APPLY TO ANY AND ALL DAMAGES OR INJURY WHATSOEVER CAUSED BY OR RELATED TO USE OF, OR INABILITY TO USE, CRM OR THE CREAM PLATFORM UNDER ANY CAUSE OR ACTION WHATSOEVER OF ANY KIND IN ANY JURISDICTION, INCLUDING, WITHOUT LIMITATION, ACTIONS FOR BREACH OF WARRANTY, BREACH OF CONTRACT (INCLUDING NEGLIGENCE) AND THAT NONE OF THE CREAM TEAM PARTIES SHALL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES, INCLUDING FOR LOSS OF PROFITS, GOODWILL OR DATA, IN ANY WAY WHATSOEVER ARISING OUT OF THE USE OF, OR INABILITY TO USE, OR PURCHASE OF, OR INABILITY TO PURCHASE, CRM. THE INVESTOR FURTHER SPECIFICALLY ACKNOWLEDGES THAT CREAMTEAM ARE NOT LIABLE FOR THE CONDUCT OF THIRD PARTIES, INCLUDING OTHER PURCHASERS OF CRM, AND THAT THE RISK OF INVESTING IN CRM RESTS ENTIRELY WITH THE INVESTOR.
+</p>
+<p>
+These Terms set forth the entire understanding between each investor and CREAMTEAM with respect to the purchase and sale of CRM. For facts relating to the sale and investment, the investor agrees to rely only on this document in determining investment decisions and understands that this document governs the sale of CRM and supersedes any public statements about the crowdsale made by third parties or by CREAMTEAM or individuals associated with any CREAMTEAM parties, past and present and during the crowdsale. There are no warranties, representations, covenants, or agreements, express or implied, between the parties except those expressly set forth in this Disclaimer.
+</p>
+<p>
+CREAMTEAM reserves the right, at its sole discretion, to change, modify, add, or remove portions of the Terms at any time during the sale by posting the Terms on the CREAM website (https://creamcoin.com). Any investor will be deemed to have accepted such changes by purchasing CRM. For purposes of this agreement, “writing” does not include an e-mail message and a signature does not include an electronic signature. If at any point you do not agree to any portion of the then-current version of the Terms, you should not purchase CRM.
+</p>
+<p>
+CREAMTEAM will cooperate with all law enforcement enquiries, subpoenas, or requests provided they are fully supported and documented by the law in the relevant jurisdictions. CREAMTEAM will endeavour to publish any legal enquiries upon receipt. 
+</p>
+<p>
+For further information regarding the CREAMCOIN project, please contact on our official e-mail.
+</p>
+<br>creamcoin@gmail.com<br><br>
+<p>
+</p><h3>The CREAMteam</h3>
+<p></p>
+                                        <p></p>
+										<br>
+										<br>
+                                            </div>
