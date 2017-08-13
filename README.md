@@ -72,6 +72,25 @@ Blockchain technology has a huge potential to transform business operating model
 
 
 
+# Install
+<div>
+<p>
+sudo apt-get install build-essential libssl-dev libboost-all-dev git libdb5.1++-dev libminiupnpc-dev screen
+
+git clone https://github.com/creamcoin/CREAM-cryptocurrency
+
+cd cream | cd src | cd leveldb
+then chmod +x build_detect_platform
+
+cd ..
+make -f makefile.unix
+
+
+</p>
+<br>
+
+
+
 # Disclaimer
 <div>
 <p>
