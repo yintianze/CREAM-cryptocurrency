@@ -53,8 +53,8 @@ public:
         pchMessageStart[2] = 0xc3;
         pchMessageStart[3] = 0x14;
         vAlertPubKey = ParseHex("");
-        nDefaultPort = 56066;
-        nRPCPort = 57077;
+        nDefaultPort = 36066;
+        nRPCPort = 37077;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
 
         // Build the genesis block. Note that the output of the genesis coinbase cannot
@@ -81,8 +81,7 @@ public:
         genesis.nBits    = 0x1e0fffff;
         genesis.nNonce   = 1454059;
 	 
-		                                                                                                                                                         
-                                           
+	 
 
         hashGenesisBlock = genesis.GetHash();
         assert(hashGenesisBlock == uint256("0x00000064f9440ba747396d1686dc56a2be9b215245c4ba7974913d65aa8f6dc1"));
@@ -92,6 +91,9 @@ public:
 		vSeeds.push_back(CDNSSeedData("seed1", "94.176.236.41"));
 		vSeeds.push_back(CDNSSeedData("seed2", "109.235.65.83"));
 		vSeeds.push_back(CDNSSeedData("seed3", "185.69.53.42"));
+		vSeeds.push_back(CDNSSeedData("seed3", "91.92.136.100"));
+		vSeeds.push_back(CDNSSeedData("seed3", "91.92.136.99"));
+		vSeeds.push_back(CDNSSeedData("seed3", "185.177.59.7"));
 
 		
         base58Prefixes[PUBKEY_ADDRESS] = list_of(28);
