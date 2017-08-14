@@ -1,0 +1,8 @@
+obj/crypto/rfc6979_hmac_sha256.o: crypto/rfc6979_hmac_sha256.cpp \
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/rfc6979_hmac_sha256.h \
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/hmac_sha256.h \
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/sha256.h
+crypto/rfc6979_hmac_sha256.cpp :
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/rfc6979_hmac_sha256.h :
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/hmac_sha256.h :
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/sha256.h :
