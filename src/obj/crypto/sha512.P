@@ -1,0 +1,6 @@
+obj/crypto/sha512.o: crypto/sha512.cpp \
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/sha512.h \
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/common.h
+crypto/sha512.cpp :
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/sha512.h :
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/common.h :

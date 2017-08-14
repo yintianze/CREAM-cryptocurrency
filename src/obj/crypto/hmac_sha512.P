@@ -1,0 +1,6 @@
+obj/crypto/hmac_sha512.o: crypto/hmac_sha512.cpp \
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/hmac_sha512.h \
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/sha512.h
+crypto/hmac_sha512.cpp :
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/hmac_sha512.h :
+ /home/mblados/GSY-1WALLETv1.50/src/crypto/sha512.h :
