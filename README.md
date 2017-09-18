@@ -70,6 +70,29 @@ APPLICATIONS
 Blockchain technology has a huge potential to transform business operating models in the long term. Blockchain distributed ledger technology is more a foundational technology with the potential to create new foundations for global economic and social systems. Blockchain technology can be used to create a permanent, public, transparent ledger system for compiling data on sales, storing rights data by authenticating copyright registration, tracking transactions and more.
 
 
+# Specs
+<div>
+<p>
+Name: Cream
+Ticker: CRM
+Algo X11
+Block time: 240 sec
+Block size 4MB (bitcoin scaling problem solved)
+Total coin 100000000 (100M)
+Difficulty retarget: Every block
+Mined coins mature in 100 blocks
+Tx confirmation 5 blocks
+Min transaction fee: 0.0001
+Default Port: 36066
+RPC Port: 37077
+Encrypted messaging
+Masternode: 100.000 CRM collateral = 20%
+Network version: 0x1c
+Private key prefix: 0x9b
+
+
+</p>
+<br>
 
 
 # Install
