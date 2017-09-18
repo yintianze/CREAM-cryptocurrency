@@ -74,21 +74,21 @@ Blockchain technology has a huge potential to transform business operating model
 <div>
 <p>
 Name: Cream
-Ticker: CRM
-Algo X11
-Block time: 240 sec
-Block size 4MB (bitcoin scaling problem solved)
-Total coin 100000000 (100M)
-Difficulty retarget: Every block
-Mined coins mature in 100 blocks
-Tx confirmation 5 blocks
-Min transaction fee: 0.0001
-Default Port: 36066
-RPC Port: 37077
-Encrypted messaging
-Masternode: 100.000 CRM collateral = 20%
-Network version: 0x1c
-Private key prefix: 0x9b
+Ticker: CRM<br>
+Algo X11<br>
+Block time: 240 sec<br>
+Block size 4MB (bitcoin scaling problem solved)<br>
+Total coin 100000000 (100M)<br><br>
+Difficulty retarget: Every block<br>
+Mined coins mature in 100 blocks<br>
+Tx confirmation 5 blocks<br>
+Min transaction fee: 0.0001<br>
+Default Port: 36066<br>
+RPC Port: 37077<br>
+Encrypted messaging<br>
+Masternode: 100.000 CRM collateral = 20%<br>
+Network version: 0x1c<br>
+Private key prefix: 0x9b<br>
 
 
 </p>
