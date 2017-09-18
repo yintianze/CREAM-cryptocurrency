@@ -8,11 +8,11 @@ CREAM cryptocurrency, a blockchain based digital money
 DIGITAL CRYPTO CURRENCY -
 CREAMcoin
 
-https://creamcoin.com <<< Official Creamcoin website
-www.cream.technology <<< Creamline: CreamCryptoNews<br />
-www.creamchain.info  <<< Blockchain explorer<br />
-https://play.google.com/store/search?q=creamcoin&hl=en <<< Cream Android applications PlayStore<br />
-http://online.creamcoin.com <<< CREAMchat support<br />
+https://creamcoin.com <<< Official Creamcoin website<br>
+www.cream.technology <<< Creamline: CreamCryptoNews<br>
+www.creamchain.info  <<< Blockchain explorer<br>
+https://play.google.com/store/search?q=creamcoin&hl=en <<< PlayStore apk's<br>
+http://online.creamcoin.com <<< CREAMchat support<br>
 
 
 
