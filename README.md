@@ -90,7 +90,7 @@ Masternode: 100.000 CRM collateral = 20%<br>
 Network version: 0x1c<br>
 Private key prefix: 0x9b<br>
 
-
+Official Ann thread: https://bitcointalk.org/index.php?topic=1944898.0
 </p>
 <br>
 
