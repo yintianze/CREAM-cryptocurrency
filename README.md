@@ -100,6 +100,8 @@ Official Ann thread: https://bitcointalk.org/index.php?topic=1944898.0
 <p>
 sudo apt-get install build-essential libssl-dev libboost-all-dev git libdb5.1++-dev libminiupnpc-dev screen
 <br>
+or
+<br>
 sudo apt-get install build-essential libssl-dev libboost-all-dev git libdb5.3++-dev libminiupnpc-dev screen
 
 git clone https://github.com/creamcoin/CREAM-cryptocurrency
