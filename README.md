@@ -1,12 +1,16 @@
 # CREAM-cryptocurrency
 CREAM cryptocurrency, a blockchain based digital money
 
+©CREAMcoin 2017 | by CREAMteam
 
-©CREAM 2017 | by CREAMteam
- 
-# CRYPTO RULES EVERYTHING AROUND ME
-DIGITAL CRYPTO CURRENCY -
-CREAMcoin
+
+
+[![cream coin](https://creamcoin.com/](https://cream.technology/)
+
+
+
+# DIGITAL CRYPTO CURRENCY - CREAMcoin
+
 
 https://creamcoin.com <<< Official Creamcoin website<br>
 www.cream.technology <<< Creamline: CreamCryptoNews<br>
@@ -83,10 +87,10 @@ Difficulty retarget: Every block<br>
 Mined coins mature in 100 blocks<br>
 Tx confirmation 5 blocks<br>
 Min transaction fee: 0.0001<br>
-Default Port: 36066<br>
-RPC Port: 37077<br>
+Default Port: 45066<br>
+RPC Port: 45077<br>
 Encrypted messaging<br>
-Masternode: 100.000 CRM collateral = 20%<br>
+Masternode: 100.000 CRM collateral = 95%<br>
 Network version: 0x1c<br>
 Private key prefix: 0x9b<br>
 

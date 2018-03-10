@@ -53,8 +53,8 @@ public:
         pchMessageStart[2] = 0xc3;
         pchMessageStart[3] = 0x14;
         vAlertPubKey = ParseHex("");
-        nDefaultPort = 36066;
-        nRPCPort = 37077;
+        nDefaultPort = 45066;
+        nRPCPort = 45077;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
 
         // Build the genesis block. Note that the output of the genesis coinbase cannot
@@ -91,9 +91,9 @@ public:
 		vSeeds.push_back(CDNSSeedData("seed1", "94.176.236.41"));
 		vSeeds.push_back(CDNSSeedData("seed2", "109.235.65.83"));
 		vSeeds.push_back(CDNSSeedData("seed3", "185.69.53.42"));
-		vSeeds.push_back(CDNSSeedData("seed3", "91.92.136.100"));
-		vSeeds.push_back(CDNSSeedData("seed3", "91.92.136.99"));
-		vSeeds.push_back(CDNSSeedData("seed3", "185.177.59.7"));
+		vSeeds.push_back(CDNSSeedData("seed4", "91.92.136.100"));
+		vSeeds.push_back(CDNSSeedData("seed5", "91.92.136.99"));
+		vSeeds.push_back(CDNSSeedData("seed6", "185.177.59.7"));
 
 		
         base58Prefixes[PUBKEY_ADDRESS] = list_of(28);
