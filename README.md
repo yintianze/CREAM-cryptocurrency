@@ -4,7 +4,6 @@ CREAM cryptocurrency, a blockchain based digital money
 ©CREAMcoin 2017 | by CREAMteam
 
 
-#+html: <h1><span class="change-color">CREAM</span><p>Digital blockchain based virtual currency</p></h1>
 
 
 # DIGITAL CRYPTO CURRENCY - CREAMcoin
@@ -193,3 +192,6 @@ For further information regarding the CREAMCOIN project, please contact on our o
 										<br>
 										<br>
                                             </div>
+
+											
+![alt tag](https://cream.technology/images/logo/CREAM-crypto-news-small.png "Crypto PRESS")
