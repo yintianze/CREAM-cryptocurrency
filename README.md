@@ -7,14 +7,68 @@ CREAM cryptocurrency, a blockchain based digital money
 # DIGITAL CRYPTO CURRENCY - CREAMcoin
 Current version: v1.2.0.0 
 
-https://creamcoin.com <<< Official Creamcoin website<br>
-www.cream.technology <<< Creamline: CreamCryptoNews<br>
-www.creamchain.info  <<< Blockchain explorer<br>
-https://play.google.com/store/search?q=creamcoin&hl=en <<< PlayStore apk's<br>
-http://online.creamcoin.com <<< CREAMchat support<br>
-
-
 ![alt tag](https://cream.technology/images/2018/03/04/crm-features.jpg "CREAMCOIN")
+
+
+
+| About | Link |
+| ------ | ------ |
+| Official website | https://creamcoin.com |
+| Press | www.cream.technology |
+| Insight Explorer | www.creamchain.info |
+| Cream chat | http://online.creamcoin.com |
+| CreamJack | https://creamcoins.com |
+| Coinmarketcap | https://coinmarketcap.com/currencies/cream |
+| Announcement | https://bitcointalk.org/index.php?topic=1944898.0 |
+| Statistics | www.creamcoin.com/statistics/ |
+| Telegram | https://t.me/creamcryptocurrency |
+| Twitter Press | https://twitter.com/CreamTechnology |
+| Twitetr | https://twitter.com/creamcoin |
+| Telegram | https://t.me/creamcryptocurrency |
+| Android Press apk | https://play.google.com/store/apps/details?id=com.creamtech.app |
+| Android website apk | https://play.google.com/store/apps/details?id=com.cream.z.creamweb |
+| Android Chat apk | https://play.google.com/store/apps/details?id=com.cream.z.creamchat |
+| LinkedIN | https://www.linkedin.com/in/creamcoin/ |
+| Mining pool | http://pool.chainworksindustries.com/crm |
+| Coinmarketcap | https://coinmarketcap.com/currencies/cream |
+| Bitscreener | https://bitscreener.com/coins/cream |
+| Cryptocompare | https://www.cryptocompare.com/coins/crm/ |
+| Coincap | http://coincap.io/CRM |
+| Cryptonator | https://www.cryptonator.com/rates/CRM-BTC/1 |
+| Worldcoinindex | https://www.worldcoinindex.com/coin/cream |
+| Coingecko | https://www.coingecko.com/en/price_charts/cream/btc |
+| Coincheckup | https://coincheckup.com/coins/cream/charts |
+| Coinhills | https://www.coinhills.com/market/crm-usd/ |
+| Coindar | https://coindar.org/en/coin/cream |
+| Whattomine | http://whattomine.com/coins/206-crm-x11 |
+
+
+
+### Exchanges
+
+| Exchange | Pair | Link |
+| ------ | ------ | ------ |
+| Cryptopia | CRM/BTC | https://www.cryptopia.co.nz/Exchange/?market=CRM_BTC |
+| Yobit | CRM/BTC | https://yobit.net/en/trade/CRM/BTC |
+| Novaexchange | CRM/BTC | https://novaexchange.com/market/BTC_CRM |
+| Cryptohub | CRM/BTC | https://cryptohub.online/market/CRM/ |
+| Coinhouse | CRM/BTC | https://coinhouse.eu/markets/crmbtc |
+|  |
+|  |
+| Cryptopia | CRM/LTC | https://www.cryptopia.co.nz/Exchange/?market=CRM_LTC |
+| Cryptopia | CRM/DOGE | https://www.cryptopia.co.nz/Exchange/?market=CRM_DOGE |
+| Yobit | CRM/ETH | https://yobit.net/en/trade/CRM/ETH |
+| Yobit | CRM/DOGE | https://yobit.net/en/trade/CRM/DOGE |
+| Yobit | CRM/WAVES | https://yobit.net/en/trade/CRM/WAVES |
+| Yobit | CRM/USD | https://yobit.net/en/trade/CRM/USD |
+| Yobit | CRM/RUR | https://yobit.net/en/trade/CRM/RUR |
+| Novaexchange | CRM/LTC | https://novaexchange.com/market/LTC_CRM |
+| Novaexchange | CRM/ETH | https://novaexchange.com/market/ETH_CRM |
+| Novaexchange | CRM/DOGE | https://novaexchange.com/market/DOGE_CRM |
+
+
+
+
 
 
 # INFO
