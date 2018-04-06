@@ -53,8 +53,9 @@ Current version: v1.2.0.0
 | Novaexchange | CRM/BTC | https://novaexchange.com/market/BTC_CRM |
 | Cryptohub | CRM/BTC | https://cryptohub.online/market/CRM/ |
 | Coinhouse | CRM/BTC | https://coinhouse.eu/markets/crmbtc |
-|  |
-|  |
+
+| Exchange | Pair | Link |
+| ------ | ------ | ------ |
 | Cryptopia | CRM/LTC | https://www.cryptopia.co.nz/Exchange/?market=CRM_LTC |
 | Cryptopia | CRM/DOGE | https://www.cryptopia.co.nz/Exchange/?market=CRM_DOGE |
 | Yobit | CRM/ETH | https://yobit.net/en/trade/CRM/ETH |
@@ -65,9 +66,6 @@ Current version: v1.2.0.0
 | Novaexchange | CRM/LTC | https://novaexchange.com/market/LTC_CRM |
 | Novaexchange | CRM/ETH | https://novaexchange.com/market/ETH_CRM |
 | Novaexchange | CRM/DOGE | https://novaexchange.com/market/DOGE_CRM |
-
-
-
 
 
 
