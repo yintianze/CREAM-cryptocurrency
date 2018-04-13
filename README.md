@@ -5,7 +5,7 @@ CREAM cryptocurrency, a blockchain based digital money
 
 
 # DIGITAL CRYPTO CURRENCY - CREAMcoin
-Current version: v1.2.0.0 
+Current version: v1.2.1.0 Stable
 
 ![alt tag](https://cream.technology/images/2018/03/04/crm-features.jpg "CREAMCOIN")
 
